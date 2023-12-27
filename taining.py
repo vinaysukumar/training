@@ -1,1 +1,1 @@
-vinay day 1
+print("vinay day 1")
